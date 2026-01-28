@@ -1,0 +1,24 @@
+---
+title: "Teaching"
+---
+
+<div class="course">
+### Course Title (Course Code)
+University of Oslo | Semester Year | Teaching Assistant
+
+Brief description of the course and your responsibilities.
+</div>
+
+<div class="course">
+### Another Course Title (Course Code)
+University of Oslo | Semester Year | Seminar Leader
+
+Brief description of the course and your responsibilities.
+</div>
+
+<div class="course">
+### Guest Lectures
+Various courses
+
+List any guest lectures you have given, with course names and topics.
+</div>

@@ -1,0 +1,36 @@
+---
+title: "Research"
+---
+
+## Publications
+
+<div class="publication">
+### Title of Your First Publication
+<p class="pub-authors">Boulaziz, L., Co-Author, A., & Another, B.</p>
+<p class="pub-venue">Journal Name, Year, Volume(Issue), Pages</p>
+[PDF](#) | [DOI](#)
+</div>
+
+<div class="publication">
+### Title of Your Second Publication
+<p class="pub-authors">Boulaziz, L.</p>
+<p class="pub-venue">Conference Proceedings or Journal, Year</p>
+[PDF](#)
+</div>
+
+## Working Papers
+
+<div class="publication">
+### Title of Working Paper
+<p class="pub-authors">Boulaziz, L.</p>
+<p class="pub-venue">Under review at [Journal Name]</p>
+</div>
+
+## PhD Dissertation
+
+**Dissertation Title:** [Your Dissertation Title Here]
+
+[Describe your PhD project here - its main research questions, methodology, and expected contributions to the field.]
+
+**Supervisor:** [Supervisor Name]
+**Expected completion:** [Year]

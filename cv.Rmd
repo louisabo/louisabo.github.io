@@ -1,0 +1,53 @@
+---
+title: "CV"
+---
+
+<center>
+<a href="cv.pdf" class="btn-download">Download Full CV (PDF)</a>
+</center>
+
+<div class="cv-section">
+### Education
+
+<div class="cv-entry">
+#### PhD in Political Science / European Studies
+University of Oslo, ARENA Centre for European Studies | Expected [Year]
+</div>
+
+<div class="cv-entry">
+#### Master's Degree in [Field]
+[University Name] | [Year]
+</div>
+
+<div class="cv-entry">
+#### Bachelor's Degree in [Field]
+[University Name] | [Year]
+</div>
+</div>
+
+<div class="cv-section">
+### Academic Positions
+
+<div class="cv-entry">
+#### PhD Fellow
+ARENA Centre for European Studies, University of Oslo | [Start Year] – Present
+</div>
+</div>
+
+<div class="cv-section">
+### Awards & Grants
+
+<div class="cv-entry">
+#### [Award/Grant Name]
+[Granting Institution] | [Year]
+</div>
+</div>
+
+<div class="cv-section">
+### Conference Presentations
+
+<div class="cv-entry">
+#### "[Presentation Title]"
+[Conference Name], [Location] | [Date]
+</div>
+</div>

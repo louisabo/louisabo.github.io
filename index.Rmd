@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+---
+
+<div class="profile-photo">
+<img src="photo.jpeg" alt="Louisa Boulaziz">
+</div>
+
+<div class="bio">
+
+Hello! My name is Louisa Boulaziz and I am a PhD Fellow at the [ARENA Centre for European Studies](https://www.sv.uio.no/arena/english/) at the University of Oslo.
+
+My research focuses on [YOUR RESEARCH FOCUS HERE - e.g., European integration, EU governance, comparative politics, etc.].
+
+[ADD ANOTHER PARAGRAPH ABOUT YOUR BACKGROUND HERE - your methodology, what drives your research interests, previous education, etc.]
+
+Please contact me at [your.email@uio.no](mailto:your.email@uio.no).
+
+</div>

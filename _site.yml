@@ -1,0 +1,19 @@
+name: "Louisa Boulaziz"
+output_dir: "."
+navbar:
+  title: "Louisa Boulaziz"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: cv.html
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
+    include:
+      in_header: header.html
