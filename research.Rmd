@@ -5,26 +5,23 @@ title: "Research"
 ## Publications
 
 <div class="publication">
-### Beyond the glass ceiling, more 'housework'? Womens' work assignment, performance and influence in political institutions
+### <a href="https://doi.org/10.1086/736465" target="_blank">Beyond the glass ceiling, more 'housework'? Womens' work assignment, performance and influence in political institutions</a>
 <p class="pub-authors">Boulaziz, Louisa</p>
 <p class="pub-venue">Forthcoming in The Journal of Politics, 2025</p>
-[DOI](https://doi.org/10.1086/736465)
 </div>
 
 <div class="publication">
-### Leveling and Spotlighting: How the European Court of Justice Favors the Weak to Promote Its Legitimacy
+### <a href="https://doi.org/10.1017/S0007123425100987" target="_blank">Leveling and Spotlighting: How the European Court of Justice Favors the Weak to Promote Its Legitimacy</a>
 <p class="pub-authors">Hermansen, Silje Synnøve Lyder, Pavone, Tommaso, & Boulaziz, Louisa</p>
 <p class="pub-venue">British Journal of Political Science, 2025, Volume 55, e158</p>
-[DOI](https://doi.org/10.1017/S0007123425100987)
 </div>
 
 ## Working Papers
 
 <div class="publication">
-### Picture perfect: The gendered pathways into government
+### <a href="https://ssrn.com/abstract=5560482" target="_blank">Picture perfect: The gendered pathways into government</a>
 <p class="pub-authors">Boulaziz, Louisa & Nyrup, Jacob</p>
 <p class="pub-venue">Revise and resubmit in American Journal of Political Science, 2025</p>
-[SSRN](https://ssrn.com/abstract=5560482) | [DOI](http://dx.doi.org/10.2139/ssrn.5560482)
 </div>
 
 <div class="publication">
@@ -40,10 +37,9 @@ title: "Research"
 </div>
 
 <div class="publication">
-### Precarious positions? Gender, quotas and the politics of (re)appointment
+### <a href="https://doi.org/10.33774/apsa-2024-3l3pd-v2" target="_blank">Precarious positions? Gender, quotas and the politics of (re)appointment</a>
 <p class="pub-authors">Boulaziz, Louisa</p>
 <p class="pub-venue">Under review in European Journal of Political Research, 2025</p>
-[APSA Preprints](https://doi.org/10.33774/apsa-2024-3l3pd-v2)
 </div>
 
 <div class="publication">
