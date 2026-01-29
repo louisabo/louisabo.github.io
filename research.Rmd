@@ -5,25 +5,57 @@ title: "Research"
 ## Publications
 
 <div class="publication">
-### Title of Your First Publication
-<p class="pub-authors">Boulaziz, L., Co-Author, A., & Another, B.</p>
-<p class="pub-venue">Journal Name, Year, Volume(Issue), Pages</p>
-[PDF](#) | [DOI](#)
+### Beyond the glass ceiling, more 'housework'? Womens' work assignment, performance and influence in political institutions
+<p class="pub-authors">Boulaziz, Louisa</p>
+<p class="pub-venue">Forthcoming in The Journal of Politics, 2025</p>
+[DOI](https://doi.org/10.1086/736465)
 </div>
 
 <div class="publication">
-### Title of Your Second Publication
-<p class="pub-authors">Boulaziz, L.</p>
-<p class="pub-venue">Conference Proceedings or Journal, Year</p>
-[PDF](#)
+### Leveling and Spotlighting: How the European Court of Justice Favors the Weak to Promote Its Legitimacy
+<p class="pub-authors">Hermansen, Silje Synnøve Lyder, Pavone, Tommaso, & Boulaziz, Louisa</p>
+<p class="pub-venue">British Journal of Political Science, 2025, Volume 55, e158</p>
+[DOI](https://doi.org/10.1017/S0007123425100987)
 </div>
 
 ## Working Papers
 
 <div class="publication">
-### Title of Working Paper
-<p class="pub-authors">Boulaziz, L.</p>
-<p class="pub-venue">Under review at [Journal Name]</p>
+### Picture perfect: The gendered pathways into government
+<p class="pub-authors">Boulaziz, Louisa & Nyrup, Jacob</p>
+<p class="pub-venue">Revise and resubmit in American Journal of Political Science, 2025</p>
+[SSRN](https://ssrn.com/abstract=5560482) | [DOI](http://dx.doi.org/10.2139/ssrn.5560482)
+</div>
+
+<div class="publication">
+### Panel effects beyond outcomes: Gender and judicial efficiency
+<p class="pub-authors">Boulaziz, Louisa</p>
+<p class="pub-venue">Revise and resubmit in European Journal of Political Research, 2025</p>
+</div>
+
+<div class="publication">
+### Open calls, closed doors? Judicial selection procedures and gender diversity on the bench
+<p class="pub-authors">Boulaziz, Louisa, Lindholm, Johan, & Naurin, Daniel</p>
+<p class="pub-venue">Submitted to The British Journal of Political Science, 2025</p>
+</div>
+
+<div class="publication">
+### Precarious positions? Gender, quotas and the politics of (re)appointment
+<p class="pub-authors">Boulaziz, Louisa</p>
+<p class="pub-venue">Under review in European Journal of Political Research, 2025</p>
+[APSA Preprints](https://doi.org/10.33774/apsa-2024-3l3pd-v2)
+</div>
+
+<div class="publication">
+### Courtroom Capital: Who lawyers know or what they know?
+<p class="pub-authors">Boulaziz, Louisa, Hermansen, Silje Synnøve, & Pavone, Tommaso</p>
+<p class="pub-venue">Working paper, 2025</p>
+</div>
+
+<div class="publication">
+### Agenda-Setters, Permission-Givers, and Gate-Keepers: A Triadic Theory of Litigation and Decision-Making by International Courts
+<p class="pub-authors">Pavone, Tommaso, Hermansen, Silje Synnøve, & Boulaziz, Louisa</p>
+<p class="pub-venue">Working paper, 2024</p>
 </div>
 
 ## PhD Dissertation
