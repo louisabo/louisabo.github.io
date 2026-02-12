@@ -2,23 +2,30 @@
 title: "Teaching"
 ---
 
-<div class="course">
-### Course Title (Course Code)
-University of Oslo | Semester Year | Teaching Assistant
+### Guest Lecturer
+Gender and Politics | University of Copenhagen | Fall 2024
 
-Brief description of the course and your responsibilities.
-</div>
+### Workshop Organizer/Speaker
+IUROPA Workshop on Law and Courts | Fall 2023, 2024
 
-<div class="course">
-### Another Course Title (Course Code)
-University of Oslo | Semester Year | Seminar Leader
+### Lecturer
+International and Comparative Judicial Politics (STV4222) | University of Oslo | Spring 2024
 
-Brief description of the course and your responsibilities.
-</div>
+### Lecturer/Seminar Teacher
+Politics in the European Union (STV2500) | University of Oslo | Spring 2023, 2024
 
-<div class="course">
-### Guest Lectures
-Various courses
+### Seminar Teacher
+Digital Data in Political Science (STV4030A) | University of Oslo | Fall 2023
 
-List any guest lectures you have given, with course names and topics.
-</div>
+### Course Leader/Lecturer
+Political Data Science Hackathon (ISSSV1337) | University of Oslo | Spring/Summer 2023
+
+### Seminar Teacher
+Research Methods and Applied Statistics (STV1020), undergraduate | University of Oslo | Spring 2020, 2021
+
+### Seminar Teacher
+Research Methods and Applied Statistics (STV4020A), graduate | University of Oslo | Fall 2020
+
+### Seminar Teacher
+Examen Facultatum for the Social Sciences (SVEXFAC03) | University of Oslo | Fall 2019
+
